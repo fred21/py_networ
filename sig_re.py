@@ -1,7 +1,7 @@
 import os    
 import signal    
 from time import sleep    
-     
+# comment add by hwfred21     
 def onsignal_term(a,b):    
 	print 'get SIGTERM'    
      
