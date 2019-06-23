@@ -2,8 +2,8 @@ import os
 import signal    
 from time import sleep  
 
-
-# comment add by hwfred21 2019-6-24    # comment add by fred21 2019-5-24_2    
+# comment add by hwfred21 2019-6-24 
+# comment add by fred21 2019-5-24_2    
 # comment add by fred21 2019-5-24_1    
 # comment add by fred21 2019-5-24    
 # comment add by hwfred21     
